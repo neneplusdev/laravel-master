@@ -3,11 +3,9 @@ This project contains simple login, registration and CRUD operation in Laravel 5
 
 # Steps to setup the project.
 
-* Clone the repository.
-- https://github.com/neneplusdev/laravel-master.git / git@github.com:neneplusdev/laravel-master.git
+* Clone the repository using one of the URL https://github.com/neneplusdev/laravel-master.git / git@github.com:neneplusdev/laravel-master.git OR download the zip folder
 
-* Go to the project folder and install the composer using below command
-- composer install
+* Go to the project folder and install the composer using command: composer install
 
 * Set the debug mode true inside app.php file to see the error
 
